@@ -10,20 +10,28 @@
 ## 개발 환경
 - Programming Language : Typescript
 - DBMS : PostgreSQL
-- Web application Server : Tomcat 9.0
 - Technology : TypeORM, jwt, passport, bcrypt
 - Tool : NestJs, ERD cloud
 
 <br>
 
 ## ERD 설계
-![image](https://user-images.githubusercontent.com/80090062/135395756-dc4677f0-4f92-4223-a9f3-25e0a171e637.png)
+![image](https://user-images.githubusercontent.com/80090062/135396703-703f3476-8d71-455d-85f2-c52acae35fd7.png)
 
 
 
 ## 프로젝트 기능
-1. 공통 기능
-2. 회원 기능
+1. 회원 기능
+  + 회원 수정, 삭제 (update,delete)
+  + 메뉴 CRUD
+
+2. 공통 기능
+  + 공통 기능
+  + 회원 CR
+  + 예약 CRUD
+  + 주문 CRUD
+  + 방문기록 등록
 
 ## 담당 기능 
-+ 
+  + 회원 CRUD
+  + 방문기록 등록(create)
