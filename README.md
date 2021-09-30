@@ -10,8 +10,8 @@
 ## 개발 환경
 - Programming Language : Typescript
 - DBMS : PostgreSQL
-- Technology : TypeORM, jwt, passport, bcrypt
-- Tool : NestJs, ERD cloud
+- Technology : NestJs, TypeORM, jwt, passport, bcrypt
+- Tool : VSCode, ERD cloud
 
 <br>
 
